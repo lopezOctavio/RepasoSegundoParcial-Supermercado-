@@ -1,0 +1,141 @@
+[ {
+  "clientesEnCaja" : [ {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 28
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 23
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 26
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 22
+  }, {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 22
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 1
+  } ],
+  "tiempos" : [ 5040.0, 5902.5, 6799.5, 7938.0, 8730.0, 8764.5 ],
+  "cantDeProblemas" : 1
+}, {
+  "clientesEnCaja" : [ {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 38
+  }, {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 2
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 31
+  }, {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 6
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 12
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 30
+  } ],
+  "tiempos" : [ 7125.0, 7197.0, 12544.5, 12868.5, 15118.5, 16806.0 ],
+  "cantDeProblemas" : 3
+}, {
+  "clientesEnCaja" : [ {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 17
+  }, {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 14
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 44
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 47
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 27
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 36
+  } ],
+  "tiempos" : [ 3060.0, 3816.0, 6093.0, 14200.5, 18858.0, 25068.0 ],
+  "cantDeProblemas" : 4
+}, {
+  "clientesEnCaja" : [ {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 26
+  }, {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 23
+  }, {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 33
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 49
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 3
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 48
+  } ],
+  "tiempos" : [ 975.0, 2217.0, 3999.0, 12451.5, 13014.0, 14814.0 ],
+  "cantDeProblemas" : 2
+}, {
+  "clientesEnCaja" : [ {
+    "tipoCliente" : "EMBARAZADA",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 33
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "EFECTIVO",
+    "cantarticulos" : 14
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 11
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 25
+  }, {
+    "tipoCliente" : "JUBILADO",
+    "tipoPago" : "TARJETAsinPROBLEMA",
+    "cantarticulos" : 12
+  }, {
+    "tipoCliente" : "COMUN",
+    "tipoPago" : "TARJETAconPROBLEMA",
+    "cantarticulos" : 37
+  } ],
+  "tiempos" : [ 1188.0, 1713.0, 3610.5, 7923.0, 8598.0, 14980.5 ],
+  "cantDeProblemas" : 3
+} ]
